@@ -7,8 +7,8 @@
  * Web: http://wch.cn
  * Author: WCH <tech@wch.cn>
  *
- * Modified by GLPI for RS232-multiple-converter
- * changed port name 
+ * Modified by KBC201 for RS232-multiple-converter
+ * changed dev/port name - 2025-01-24 
 
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
